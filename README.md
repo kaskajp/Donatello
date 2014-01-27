@@ -8,4 +8,4 @@ The simplicity of this application makes it a good starting point for people who
 ## Credits:
 Icon by Anand A Nair (http://thenounproject.com/anandgrafiti/)
 
-Creative Commons – Attribution (CC BY 3.0) (http://creativecommons.org/licenses/by/3.0/us/)
+Icon licensed with Creative Commons – Attribution (CC BY 3.0) (http://creativecommons.org/licenses/by/3.0/us/)
